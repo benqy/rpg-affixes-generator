@@ -1,0 +1,23 @@
+{
+  "name": "rpg-affixes-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benqy/rpg-affixes-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benqy/rpg-affixes-generator/issues"
+  },
+  "homepage": "https://github.com/benqy/rpg-affixes-generator#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
