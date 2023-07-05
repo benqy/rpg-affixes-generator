@@ -123,7 +123,7 @@ export const VALUE_TYPES = [
   },
   {
     name: 'add',
-    text: '附加',
+    text: '增加',
     id:'003',
     desc: 'text n - m #',
     tierFormula: function(t, baseValue){

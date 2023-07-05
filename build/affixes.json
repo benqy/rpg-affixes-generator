@@ -222,7 +222,7 @@
   "0010030010": {
     "id": "0010030010",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -233,7 +233,7 @@
   "001003009": {
     "id": "001003009",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -244,7 +244,7 @@
   "001003008": {
     "id": "001003008",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -255,7 +255,7 @@
   "001003007": {
     "id": "001003007",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -266,7 +266,7 @@
   "001003006": {
     "id": "001003006",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -277,7 +277,7 @@
   "001003005": {
     "id": "001003005",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -288,7 +288,7 @@
   "001003004": {
     "id": "001003004",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -299,7 +299,7 @@
   "001003003": {
     "id": "001003003",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -310,7 +310,7 @@
   "001003002": {
     "id": "001003002",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -321,7 +321,7 @@
   "001003001": {
     "id": "001003001",
     "name": "damage",
-    "desc": "附加 n - m 伤害",
+    "desc": "增加 n - m 伤害",
     "tags": [
       "damage"
     ],
@@ -662,7 +662,7 @@
   "0040030010": {
     "id": "0040030010",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -673,7 +673,7 @@
   "004003009": {
     "id": "004003009",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -684,7 +684,7 @@
   "004003008": {
     "id": "004003008",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -695,7 +695,7 @@
   "004003007": {
     "id": "004003007",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -706,7 +706,7 @@
   "004003006": {
     "id": "004003006",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -717,7 +717,7 @@
   "004003005": {
     "id": "004003005",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -728,7 +728,7 @@
   "004003004": {
     "id": "004003004",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -739,7 +739,7 @@
   "004003003": {
     "id": "004003003",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -750,7 +750,7 @@
   "004003002": {
     "id": "004003002",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -761,7 +761,7 @@
   "004003001": {
     "id": "004003001",
     "name": "arrmor",
-    "desc": "附加 n - m 护甲",
+    "desc": "增加 n - m 护甲",
     "tags": [
       "arrmor"
     ],
@@ -912,7 +912,7 @@
   "0060030010": {
     "id": "0060030010",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -924,7 +924,7 @@
   "006003009": {
     "id": "006003009",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -936,7 +936,7 @@
   "006003008": {
     "id": "006003008",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -948,7 +948,7 @@
   "006003007": {
     "id": "006003007",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -960,7 +960,7 @@
   "006003006": {
     "id": "006003006",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -972,7 +972,7 @@
   "006003005": {
     "id": "006003005",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -984,7 +984,7 @@
   "006003004": {
     "id": "006003004",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -996,7 +996,7 @@
   "006003003": {
     "id": "006003003",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -1008,7 +1008,7 @@
   "006003002": {
     "id": "006003002",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -1020,7 +1020,7 @@
   "006003001": {
     "id": "006003001",
     "name": "strength",
-    "desc": "附加 n - m 力量",
+    "desc": "增加 n - m 力量",
     "tags": [
       "attr",
       "strength"
@@ -1032,7 +1032,7 @@
   "0070030010": {
     "id": "0070030010",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1044,7 +1044,7 @@
   "007003009": {
     "id": "007003009",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1056,7 +1056,7 @@
   "007003008": {
     "id": "007003008",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1068,7 +1068,7 @@
   "007003007": {
     "id": "007003007",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1080,7 +1080,7 @@
   "007003006": {
     "id": "007003006",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1092,7 +1092,7 @@
   "007003005": {
     "id": "007003005",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1104,7 +1104,7 @@
   "007003004": {
     "id": "007003004",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1116,7 +1116,7 @@
   "007003003": {
     "id": "007003003",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1128,7 +1128,7 @@
   "007003002": {
     "id": "007003002",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1140,7 +1140,7 @@
   "007003001": {
     "id": "007003001",
     "name": "dexterity",
-    "desc": "附加 n - m 敏捷",
+    "desc": "增加 n - m 敏捷",
     "tags": [
       "attr",
       "dexterity"
@@ -1152,7 +1152,7 @@
   "0080030010": {
     "id": "0080030010",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1163,7 +1163,7 @@
   "008003009": {
     "id": "008003009",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1174,7 +1174,7 @@
   "008003008": {
     "id": "008003008",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1185,7 +1185,7 @@
   "008003007": {
     "id": "008003007",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1196,7 +1196,7 @@
   "008003006": {
     "id": "008003006",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1207,7 +1207,7 @@
   "008003005": {
     "id": "008003005",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1218,7 +1218,7 @@
   "008003004": {
     "id": "008003004",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1229,7 +1229,7 @@
   "008003003": {
     "id": "008003003",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1240,7 +1240,7 @@
   "008003002": {
     "id": "008003002",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
@@ -1251,7 +1251,7 @@
   "008003001": {
     "id": "008003001",
     "name": "regenerate",
-    "desc": "附加 n - m 生命恢复",
+    "desc": "增加 n - m 生命恢复",
     "tags": [
       "regenerate"
     ],
