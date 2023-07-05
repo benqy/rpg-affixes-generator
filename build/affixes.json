@@ -1,0 +1,912 @@
+{
+  "0010010010": {
+    "id": "0010010010",
+    "name": "damage",
+    "text": "伤害提高 5% - 10%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 5,
+    "maxValue": 10,
+    "tier": 10
+  },
+  "001001009": {
+    "id": "001001009",
+    "name": "damage",
+    "text": "伤害提高 10% - 20%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 10,
+    "maxValue": 20,
+    "tier": 9
+  },
+  "001001008": {
+    "id": "001001008",
+    "name": "damage",
+    "text": "伤害提高 22% - 44%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 22,
+    "maxValue": 44,
+    "tier": 8
+  },
+  "001001007": {
+    "id": "001001007",
+    "name": "damage",
+    "text": "伤害提高 41% - 82%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 41,
+    "maxValue": 82,
+    "tier": 7
+  },
+  "001001006": {
+    "id": "001001006",
+    "name": "damage",
+    "text": "伤害提高 65% - 131%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 65,
+    "maxValue": 131,
+    "tier": 6
+  },
+  "001001005": {
+    "id": "001001005",
+    "name": "damage",
+    "text": "伤害提高 95% - 191%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 95,
+    "maxValue": 191,
+    "tier": 5
+  },
+  "001001004": {
+    "id": "001001004",
+    "name": "damage",
+    "text": "伤害提高 130% - 261%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 130,
+    "maxValue": 261,
+    "tier": 4
+  },
+  "001001003": {
+    "id": "001001003",
+    "name": "damage",
+    "text": "伤害提高 171% - 342%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 171,
+    "maxValue": 342,
+    "tier": 3
+  },
+  "001001002": {
+    "id": "001001002",
+    "name": "damage",
+    "text": "伤害提高 216% - 432%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 216,
+    "maxValue": 432,
+    "tier": 2
+  },
+  "001001001": {
+    "id": "001001001",
+    "name": "damage",
+    "text": "伤害提高 265% - 531%",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 265,
+    "maxValue": 531,
+    "tier": 1
+  },
+  "0010020010": {
+    "id": "0010020010",
+    "name": "damage",
+    "text": "2% - 3% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 2,
+    "maxValue": 3,
+    "tier": 10
+  },
+  "001002009": {
+    "id": "001002009",
+    "name": "damage",
+    "text": "3% - 6% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 3,
+    "maxValue": 6,
+    "tier": 9
+  },
+  "001002008": {
+    "id": "001002008",
+    "name": "damage",
+    "text": "6% - 9% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 6,
+    "maxValue": 9,
+    "tier": 8
+  },
+  "001002007": {
+    "id": "001002007",
+    "name": "damage",
+    "text": "9% - 14% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 9,
+    "maxValue": 14,
+    "tier": 7
+  },
+  "001002006": {
+    "id": "001002006",
+    "name": "damage",
+    "text": "12% - 18% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 12,
+    "maxValue": 18,
+    "tier": 6
+  },
+  "001002005": {
+    "id": "001002005",
+    "name": "damage",
+    "text": "15% - 23% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 15,
+    "maxValue": 23,
+    "tier": 5
+  },
+  "001002004": {
+    "id": "001002004",
+    "name": "damage",
+    "text": "18% - 28% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 18,
+    "maxValue": 28,
+    "tier": 4
+  },
+  "001002003": {
+    "id": "001002003",
+    "name": "damage",
+    "text": "21% - 33% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 21,
+    "maxValue": 33,
+    "tier": 3
+  },
+  "001002002": {
+    "id": "001002002",
+    "name": "damage",
+    "text": "25% - 38% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 25,
+    "maxValue": 38,
+    "tier": 2
+  },
+  "001002001": {
+    "id": "001002001",
+    "name": "damage",
+    "text": "28% - 43% 更多伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 28,
+    "maxValue": 43,
+    "tier": 1
+  },
+  "0010030010": {
+    "id": "0010030010",
+    "name": "damage",
+    "text": "附加 5 - 10 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 5,
+    "maxValue": 10,
+    "tier": 10
+  },
+  "001003009": {
+    "id": "001003009",
+    "name": "damage",
+    "text": "附加 10 - 20 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 10,
+    "maxValue": 20,
+    "tier": 9
+  },
+  "001003008": {
+    "id": "001003008",
+    "name": "damage",
+    "text": "附加 22 - 44 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 22,
+    "maxValue": 44,
+    "tier": 8
+  },
+  "001003007": {
+    "id": "001003007",
+    "name": "damage",
+    "text": "附加 41 - 82 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 41,
+    "maxValue": 82,
+    "tier": 7
+  },
+  "001003006": {
+    "id": "001003006",
+    "name": "damage",
+    "text": "附加 65 - 131 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 65,
+    "maxValue": 131,
+    "tier": 6
+  },
+  "001003005": {
+    "id": "001003005",
+    "name": "damage",
+    "text": "附加 95 - 191 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 95,
+    "maxValue": 191,
+    "tier": 5
+  },
+  "001003004": {
+    "id": "001003004",
+    "name": "damage",
+    "text": "附加 130 - 261 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 130,
+    "maxValue": 261,
+    "tier": 4
+  },
+  "001003003": {
+    "id": "001003003",
+    "name": "damage",
+    "text": "附加 171 - 342 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 171,
+    "maxValue": 342,
+    "tier": 3
+  },
+  "001003002": {
+    "id": "001003002",
+    "name": "damage",
+    "text": "附加 216 - 432 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 216,
+    "maxValue": 432,
+    "tier": 2
+  },
+  "001003001": {
+    "id": "001003001",
+    "name": "damage",
+    "text": "附加 265 - 531 伤害",
+    "tags": [
+      "damage"
+    ],
+    "minValue": 265,
+    "maxValue": 531,
+    "tier": 1
+  },
+  "0020010010": {
+    "id": "0020010010",
+    "name": "speed",
+    "text": "速度提高 2% - 3%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 2,
+    "maxValue": 3,
+    "tier": 10
+  },
+  "002001009": {
+    "id": "002001009",
+    "name": "speed",
+    "text": "速度提高 3% - 4%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 3,
+    "maxValue": 4,
+    "tier": 9
+  },
+  "002001008": {
+    "id": "002001008",
+    "name": "speed",
+    "text": "速度提高 4% - 6%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 4,
+    "maxValue": 6,
+    "tier": 8
+  },
+  "002001007": {
+    "id": "002001007",
+    "name": "speed",
+    "text": "速度提高 6% - 9%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 6,
+    "maxValue": 9,
+    "tier": 7
+  },
+  "002001006": {
+    "id": "002001006",
+    "name": "speed",
+    "text": "速度提高 8% - 11%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 8,
+    "maxValue": 11,
+    "tier": 6
+  },
+  "002001005": {
+    "id": "002001005",
+    "name": "speed",
+    "text": "速度提高 9% - 13%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 9,
+    "maxValue": 13,
+    "tier": 5
+  },
+  "002001004": {
+    "id": "002001004",
+    "name": "speed",
+    "text": "速度提高 11% - 16%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 11,
+    "maxValue": 16,
+    "tier": 4
+  },
+  "002001003": {
+    "id": "002001003",
+    "name": "speed",
+    "text": "速度提高 13% - 18%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 13,
+    "maxValue": 18,
+    "tier": 3
+  },
+  "002001002": {
+    "id": "002001002",
+    "name": "speed",
+    "text": "速度提高 14% - 20%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 14,
+    "maxValue": 20,
+    "tier": 2
+  },
+  "002001001": {
+    "id": "002001001",
+    "name": "speed",
+    "text": "速度提高 16% - 23%",
+    "tags": [
+      "speed"
+    ],
+    "minValue": 16,
+    "maxValue": 23,
+    "tier": 1
+  },
+  "0030010010": {
+    "id": "0030010010",
+    "name": "hitPoint",
+    "text": "生命提高 5% - 10%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 5,
+    "maxValue": 10,
+    "tier": 10
+  },
+  "003001009": {
+    "id": "003001009",
+    "name": "hitPoint",
+    "text": "生命提高 10% - 20%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 10,
+    "maxValue": 20,
+    "tier": 9
+  },
+  "003001008": {
+    "id": "003001008",
+    "name": "hitPoint",
+    "text": "生命提高 22% - 44%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 22,
+    "maxValue": 44,
+    "tier": 8
+  },
+  "003001007": {
+    "id": "003001007",
+    "name": "hitPoint",
+    "text": "生命提高 41% - 82%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 41,
+    "maxValue": 82,
+    "tier": 7
+  },
+  "003001006": {
+    "id": "003001006",
+    "name": "hitPoint",
+    "text": "生命提高 65% - 131%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 65,
+    "maxValue": 131,
+    "tier": 6
+  },
+  "003001005": {
+    "id": "003001005",
+    "name": "hitPoint",
+    "text": "生命提高 95% - 191%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 95,
+    "maxValue": 191,
+    "tier": 5
+  },
+  "003001004": {
+    "id": "003001004",
+    "name": "hitPoint",
+    "text": "生命提高 130% - 261%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 130,
+    "maxValue": 261,
+    "tier": 4
+  },
+  "003001003": {
+    "id": "003001003",
+    "name": "hitPoint",
+    "text": "生命提高 171% - 342%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 171,
+    "maxValue": 342,
+    "tier": 3
+  },
+  "003001002": {
+    "id": "003001002",
+    "name": "hitPoint",
+    "text": "生命提高 216% - 432%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 216,
+    "maxValue": 432,
+    "tier": 2
+  },
+  "003001001": {
+    "id": "003001001",
+    "name": "hitPoint",
+    "text": "生命提高 265% - 531%",
+    "tags": [
+      "hitPoint"
+    ],
+    "minValue": 265,
+    "maxValue": 531,
+    "tier": 1
+  },
+  "0040010010": {
+    "id": "0040010010",
+    "name": "arrmor",
+    "text": "护甲提高 5% - 10%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 5,
+    "maxValue": 10,
+    "tier": 10
+  },
+  "004001009": {
+    "id": "004001009",
+    "name": "arrmor",
+    "text": "护甲提高 10% - 20%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 10,
+    "maxValue": 20,
+    "tier": 9
+  },
+  "004001008": {
+    "id": "004001008",
+    "name": "arrmor",
+    "text": "护甲提高 22% - 44%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 22,
+    "maxValue": 44,
+    "tier": 8
+  },
+  "004001007": {
+    "id": "004001007",
+    "name": "arrmor",
+    "text": "护甲提高 41% - 82%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 41,
+    "maxValue": 82,
+    "tier": 7
+  },
+  "004001006": {
+    "id": "004001006",
+    "name": "arrmor",
+    "text": "护甲提高 65% - 131%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 65,
+    "maxValue": 131,
+    "tier": 6
+  },
+  "004001005": {
+    "id": "004001005",
+    "name": "arrmor",
+    "text": "护甲提高 95% - 191%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 95,
+    "maxValue": 191,
+    "tier": 5
+  },
+  "004001004": {
+    "id": "004001004",
+    "name": "arrmor",
+    "text": "护甲提高 130% - 261%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 130,
+    "maxValue": 261,
+    "tier": 4
+  },
+  "004001003": {
+    "id": "004001003",
+    "name": "arrmor",
+    "text": "护甲提高 171% - 342%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 171,
+    "maxValue": 342,
+    "tier": 3
+  },
+  "004001002": {
+    "id": "004001002",
+    "name": "arrmor",
+    "text": "护甲提高 216% - 432%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 216,
+    "maxValue": 432,
+    "tier": 2
+  },
+  "004001001": {
+    "id": "004001001",
+    "name": "arrmor",
+    "text": "护甲提高 265% - 531%",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 265,
+    "maxValue": 531,
+    "tier": 1
+  },
+  "0040030010": {
+    "id": "0040030010",
+    "name": "arrmor",
+    "text": "附加 5 - 10 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 5,
+    "maxValue": 10,
+    "tier": 10
+  },
+  "004003009": {
+    "id": "004003009",
+    "name": "arrmor",
+    "text": "附加 10 - 20 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 10,
+    "maxValue": 20,
+    "tier": 9
+  },
+  "004003008": {
+    "id": "004003008",
+    "name": "arrmor",
+    "text": "附加 22 - 44 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 22,
+    "maxValue": 44,
+    "tier": 8
+  },
+  "004003007": {
+    "id": "004003007",
+    "name": "arrmor",
+    "text": "附加 41 - 82 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 41,
+    "maxValue": 82,
+    "tier": 7
+  },
+  "004003006": {
+    "id": "004003006",
+    "name": "arrmor",
+    "text": "附加 65 - 131 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 65,
+    "maxValue": 131,
+    "tier": 6
+  },
+  "004003005": {
+    "id": "004003005",
+    "name": "arrmor",
+    "text": "附加 95 - 191 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 95,
+    "maxValue": 191,
+    "tier": 5
+  },
+  "004003004": {
+    "id": "004003004",
+    "name": "arrmor",
+    "text": "附加 130 - 261 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 130,
+    "maxValue": 261,
+    "tier": 4
+  },
+  "004003003": {
+    "id": "004003003",
+    "name": "arrmor",
+    "text": "附加 171 - 342 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 171,
+    "maxValue": 342,
+    "tier": 3
+  },
+  "004003002": {
+    "id": "004003002",
+    "name": "arrmor",
+    "text": "附加 216 - 432 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 216,
+    "maxValue": 432,
+    "tier": 2
+  },
+  "004003001": {
+    "id": "004003001",
+    "name": "arrmor",
+    "text": "附加 265 - 531 护甲",
+    "tags": [
+      "arrmor"
+    ],
+    "minValue": 265,
+    "maxValue": 531,
+    "tier": 1
+  },
+  "0050010010": {
+    "id": "0050010010",
+    "name": "resistance",
+    "text": "元素抗性提高 2% - 3%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 2,
+    "maxValue": 3,
+    "tier": 10
+  },
+  "005001009": {
+    "id": "005001009",
+    "name": "resistance",
+    "text": "元素抗性提高 3% - 6%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 3,
+    "maxValue": 6,
+    "tier": 9
+  },
+  "005001008": {
+    "id": "005001008",
+    "name": "resistance",
+    "text": "元素抗性提高 6% - 9%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 6,
+    "maxValue": 9,
+    "tier": 8
+  },
+  "005001007": {
+    "id": "005001007",
+    "name": "resistance",
+    "text": "元素抗性提高 9% - 14%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 9,
+    "maxValue": 14,
+    "tier": 7
+  },
+  "005001006": {
+    "id": "005001006",
+    "name": "resistance",
+    "text": "元素抗性提高 12% - 18%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 12,
+    "maxValue": 18,
+    "tier": 6
+  },
+  "005001005": {
+    "id": "005001005",
+    "name": "resistance",
+    "text": "元素抗性提高 15% - 23%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 15,
+    "maxValue": 23,
+    "tier": 5
+  },
+  "005001004": {
+    "id": "005001004",
+    "name": "resistance",
+    "text": "元素抗性提高 18% - 28%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 18,
+    "maxValue": 28,
+    "tier": 4
+  },
+  "005001003": {
+    "id": "005001003",
+    "name": "resistance",
+    "text": "元素抗性提高 21% - 33%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 21,
+    "maxValue": 33,
+    "tier": 3
+  },
+  "005001002": {
+    "id": "005001002",
+    "name": "resistance",
+    "text": "元素抗性提高 25% - 38%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 25,
+    "maxValue": 38,
+    "tier": 2
+  },
+  "005001001": {
+    "id": "005001001",
+    "name": "resistance",
+    "text": "元素抗性提高 28% - 43%",
+    "tags": [
+      "resistance",
+      "fire",
+      "cold",
+      "lightning"
+    ],
+    "minValue": 28,
+    "maxValue": 43,
+    "tier": 1
+  }
+}

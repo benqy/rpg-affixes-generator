@@ -1,12 +1,14 @@
-import {ROOTS, VALUE_TYPES} from './constants.js'
+import { ROOTS, VALUE_TYPES } from './constants.js'
 import { printListByTag } from './generator.js'
+import * as fse from 'fs-extra'
 
-let affixes = []
-for(let i = 0; i < ROOTS.length; i++){
-  affixes = affixes.concat(printListByTag(ROOTS[i].name))
+let affixes = {}
+for (let i = 0; i < ROOTS.length; i++) {
+  affixes = {...affixes, ...printListByTag(ROOTS[i].name) }
 }
-console.log(affixes)
-
+fse.outputFile('./build/affixes.json', JSON.stringify(affixes), (err) => {
+  console.log(err)
+})
 
 /**
  * {

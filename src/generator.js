@@ -7,7 +7,7 @@ const emptyFormula = value => value
 
 export const printListByTag = (tag) => {
   const root = ROOTS.filter((root) => root.name === tag)[0]
-  const affixs = []
+  const affixs = {}
   root.valueTypes.forEach((type) => {
     for(let tier = MAX_TIER; tier >= MIN_TIER; tier--){
       // console.log(`${root.text} ${root.baseValue} ${root.types}`)
@@ -29,9 +29,9 @@ export const printListByTag = (tag) => {
         maxValue,
         tier,
       }
-      affixs.push(affix)
-      console.log(JSON.stringify(affix))
-      // console.log(`t${i}: ${id} ${descTmpl}`)
+      affixs[id] = affix
+      // console.log(JSON.stringify(affix))
+      console.log(`t${tier}: ${id} ${descTmpl}`)
       
     }
     console.log('----------------')
