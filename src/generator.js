@@ -1,11 +1,9 @@
 import { ROOTS, VALUE_TYPES, MAX_TIER, MIN_TIER, MIN_BASE_VALUE,MAX_BASE_VALUE } from './constants.js'
 
-export const generate = () => {}
-
 const emptyFormula = value => value
 
 
-export const printListByTag = (tag) => {
+export const generate = (tag) => {
   const root = ROOTS.filter((root) => root.name === tag)[0]
   const affixs = {}
   root.valueTypes.forEach((type) => {
@@ -28,6 +26,7 @@ export const printListByTag = (tag) => {
         minValue,
         maxValue,
         tier,
+        position: root.position,
       }
       affixs[id] = affix
       console.log(JSON.stringify(affix))

@@ -8,7 +8,8 @@
     ],
     "minValue": 5,
     "maxValue": 10,
-    "tier": 10
+    "tier": 10,
+    "position": 0
   },
   "001001009": {
     "id": "001001009",
@@ -19,7 +20,8 @@
     ],
     "minValue": 10,
     "maxValue": 20,
-    "tier": 9
+    "tier": 9,
+    "position": 0
   },
   "001001008": {
     "id": "001001008",
@@ -30,7 +32,8 @@
     ],
     "minValue": 22,
     "maxValue": 44,
-    "tier": 8
+    "tier": 8,
+    "position": 0
   },
   "001001007": {
     "id": "001001007",
@@ -41,7 +44,8 @@
     ],
     "minValue": 41,
     "maxValue": 82,
-    "tier": 7
+    "tier": 7,
+    "position": 0
   },
   "001001006": {
     "id": "001001006",
@@ -52,7 +56,8 @@
     ],
     "minValue": 65,
     "maxValue": 131,
-    "tier": 6
+    "tier": 6,
+    "position": 0
   },
   "001001005": {
     "id": "001001005",
@@ -63,7 +68,8 @@
     ],
     "minValue": 95,
     "maxValue": 191,
-    "tier": 5
+    "tier": 5,
+    "position": 0
   },
   "001001004": {
     "id": "001001004",
@@ -74,7 +80,8 @@
     ],
     "minValue": 130,
     "maxValue": 261,
-    "tier": 4
+    "tier": 4,
+    "position": 0
   },
   "001001003": {
     "id": "001001003",
@@ -85,7 +92,8 @@
     ],
     "minValue": 171,
     "maxValue": 342,
-    "tier": 3
+    "tier": 3,
+    "position": 0
   },
   "001001002": {
     "id": "001001002",
@@ -96,7 +104,8 @@
     ],
     "minValue": 216,
     "maxValue": 432,
-    "tier": 2
+    "tier": 2,
+    "position": 0
   },
   "001001001": {
     "id": "001001001",
@@ -107,7 +116,8 @@
     ],
     "minValue": 265,
     "maxValue": 531,
-    "tier": 1
+    "tier": 1,
+    "position": 0
   },
   "0010020010": {
     "id": "0010020010",
@@ -118,7 +128,8 @@
     ],
     "minValue": 2,
     "maxValue": 3,
-    "tier": 10
+    "tier": 10,
+    "position": 0
   },
   "001002009": {
     "id": "001002009",
@@ -129,7 +140,8 @@
     ],
     "minValue": 3,
     "maxValue": 6,
-    "tier": 9
+    "tier": 9,
+    "position": 0
   },
   "001002008": {
     "id": "001002008",
@@ -140,7 +152,8 @@
     ],
     "minValue": 6,
     "maxValue": 9,
-    "tier": 8
+    "tier": 8,
+    "position": 0
   },
   "001002007": {
     "id": "001002007",
@@ -151,7 +164,8 @@
     ],
     "minValue": 9,
     "maxValue": 14,
-    "tier": 7
+    "tier": 7,
+    "position": 0
   },
   "001002006": {
     "id": "001002006",
@@ -162,7 +176,8 @@
     ],
     "minValue": 12,
     "maxValue": 18,
-    "tier": 6
+    "tier": 6,
+    "position": 0
   },
   "001002005": {
     "id": "001002005",
@@ -173,7 +188,8 @@
     ],
     "minValue": 15,
     "maxValue": 23,
-    "tier": 5
+    "tier": 5,
+    "position": 0
   },
   "001002004": {
     "id": "001002004",
@@ -184,7 +200,8 @@
     ],
     "minValue": 18,
     "maxValue": 28,
-    "tier": 4
+    "tier": 4,
+    "position": 0
   },
   "001002003": {
     "id": "001002003",
@@ -195,7 +212,8 @@
     ],
     "minValue": 21,
     "maxValue": 33,
-    "tier": 3
+    "tier": 3,
+    "position": 0
   },
   "001002002": {
     "id": "001002002",
@@ -206,7 +224,8 @@
     ],
     "minValue": 25,
     "maxValue": 38,
-    "tier": 2
+    "tier": 2,
+    "position": 0
   },
   "001002001": {
     "id": "001002001",
@@ -217,7 +236,8 @@
     ],
     "minValue": 28,
     "maxValue": 43,
-    "tier": 1
+    "tier": 1,
+    "position": 0
   },
   "0010030010": {
     "id": "0010030010",
@@ -228,7 +248,8 @@
     ],
     "minValue": 5,
     "maxValue": 10,
-    "tier": 10
+    "tier": 10,
+    "position": 0
   },
   "001003009": {
     "id": "001003009",
@@ -239,7 +260,8 @@
     ],
     "minValue": 10,
     "maxValue": 20,
-    "tier": 9
+    "tier": 9,
+    "position": 0
   },
   "001003008": {
     "id": "001003008",
@@ -250,7 +272,8 @@
     ],
     "minValue": 22,
     "maxValue": 44,
-    "tier": 8
+    "tier": 8,
+    "position": 0
   },
   "001003007": {
     "id": "001003007",
@@ -261,7 +284,8 @@
     ],
     "minValue": 41,
     "maxValue": 82,
-    "tier": 7
+    "tier": 7,
+    "position": 0
   },
   "001003006": {
     "id": "001003006",
@@ -272,7 +296,8 @@
     ],
     "minValue": 65,
     "maxValue": 131,
-    "tier": 6
+    "tier": 6,
+    "position": 0
   },
   "001003005": {
     "id": "001003005",
@@ -283,7 +308,8 @@
     ],
     "minValue": 95,
     "maxValue": 191,
-    "tier": 5
+    "tier": 5,
+    "position": 0
   },
   "001003004": {
     "id": "001003004",
@@ -294,7 +320,8 @@
     ],
     "minValue": 130,
     "maxValue": 261,
-    "tier": 4
+    "tier": 4,
+    "position": 0
   },
   "001003003": {
     "id": "001003003",
@@ -305,7 +332,8 @@
     ],
     "minValue": 171,
     "maxValue": 342,
-    "tier": 3
+    "tier": 3,
+    "position": 0
   },
   "001003002": {
     "id": "001003002",
@@ -316,7 +344,8 @@
     ],
     "minValue": 216,
     "maxValue": 432,
-    "tier": 2
+    "tier": 2,
+    "position": 0
   },
   "001003001": {
     "id": "001003001",
@@ -327,7 +356,8 @@
     ],
     "minValue": 265,
     "maxValue": 531,
-    "tier": 1
+    "tier": 1,
+    "position": 0
   },
   "0020010010": {
     "id": "0020010010",
@@ -338,7 +368,8 @@
     ],
     "minValue": 2,
     "maxValue": 3,
-    "tier": 10
+    "tier": 10,
+    "position": 0
   },
   "002001009": {
     "id": "002001009",
@@ -349,7 +380,8 @@
     ],
     "minValue": 3,
     "maxValue": 4,
-    "tier": 9
+    "tier": 9,
+    "position": 0
   },
   "002001008": {
     "id": "002001008",
@@ -360,7 +392,8 @@
     ],
     "minValue": 4,
     "maxValue": 6,
-    "tier": 8
+    "tier": 8,
+    "position": 0
   },
   "002001007": {
     "id": "002001007",
@@ -371,7 +404,8 @@
     ],
     "minValue": 6,
     "maxValue": 9,
-    "tier": 7
+    "tier": 7,
+    "position": 0
   },
   "002001006": {
     "id": "002001006",
@@ -382,7 +416,8 @@
     ],
     "minValue": 8,
     "maxValue": 11,
-    "tier": 6
+    "tier": 6,
+    "position": 0
   },
   "002001005": {
     "id": "002001005",
@@ -393,7 +428,8 @@
     ],
     "minValue": 9,
     "maxValue": 13,
-    "tier": 5
+    "tier": 5,
+    "position": 0
   },
   "002001004": {
     "id": "002001004",
@@ -404,7 +440,8 @@
     ],
     "minValue": 11,
     "maxValue": 16,
-    "tier": 4
+    "tier": 4,
+    "position": 0
   },
   "002001003": {
     "id": "002001003",
@@ -415,7 +452,8 @@
     ],
     "minValue": 13,
     "maxValue": 18,
-    "tier": 3
+    "tier": 3,
+    "position": 0
   },
   "002001002": {
     "id": "002001002",
@@ -426,7 +464,8 @@
     ],
     "minValue": 14,
     "maxValue": 20,
-    "tier": 2
+    "tier": 2,
+    "position": 0
   },
   "002001001": {
     "id": "002001001",
@@ -437,7 +476,8 @@
     ],
     "minValue": 16,
     "maxValue": 23,
-    "tier": 1
+    "tier": 1,
+    "position": 0
   },
   "0030010010": {
     "id": "0030010010",
@@ -448,7 +488,8 @@
     ],
     "minValue": 5,
     "maxValue": 10,
-    "tier": 10
+    "tier": 10,
+    "position": 0
   },
   "003001009": {
     "id": "003001009",
@@ -459,7 +500,8 @@
     ],
     "minValue": 10,
     "maxValue": 20,
-    "tier": 9
+    "tier": 9,
+    "position": 0
   },
   "003001008": {
     "id": "003001008",
@@ -470,7 +512,8 @@
     ],
     "minValue": 22,
     "maxValue": 44,
-    "tier": 8
+    "tier": 8,
+    "position": 0
   },
   "003001007": {
     "id": "003001007",
@@ -481,7 +524,8 @@
     ],
     "minValue": 41,
     "maxValue": 82,
-    "tier": 7
+    "tier": 7,
+    "position": 0
   },
   "003001006": {
     "id": "003001006",
@@ -492,7 +536,8 @@
     ],
     "minValue": 65,
     "maxValue": 131,
-    "tier": 6
+    "tier": 6,
+    "position": 0
   },
   "003001005": {
     "id": "003001005",
@@ -503,7 +548,8 @@
     ],
     "minValue": 95,
     "maxValue": 191,
-    "tier": 5
+    "tier": 5,
+    "position": 0
   },
   "003001004": {
     "id": "003001004",
@@ -514,7 +560,8 @@
     ],
     "minValue": 130,
     "maxValue": 261,
-    "tier": 4
+    "tier": 4,
+    "position": 0
   },
   "003001003": {
     "id": "003001003",
@@ -525,7 +572,8 @@
     ],
     "minValue": 171,
     "maxValue": 342,
-    "tier": 3
+    "tier": 3,
+    "position": 0
   },
   "003001002": {
     "id": "003001002",
@@ -536,7 +584,8 @@
     ],
     "minValue": 216,
     "maxValue": 432,
-    "tier": 2
+    "tier": 2,
+    "position": 0
   },
   "003001001": {
     "id": "003001001",
@@ -547,7 +596,8 @@
     ],
     "minValue": 265,
     "maxValue": 531,
-    "tier": 1
+    "tier": 1,
+    "position": 0
   },
   "0040010010": {
     "id": "0040010010",
@@ -558,7 +608,8 @@
     ],
     "minValue": 5,
     "maxValue": 10,
-    "tier": 10
+    "tier": 10,
+    "position": 0
   },
   "004001009": {
     "id": "004001009",
@@ -569,7 +620,8 @@
     ],
     "minValue": 10,
     "maxValue": 20,
-    "tier": 9
+    "tier": 9,
+    "position": 0
   },
   "004001008": {
     "id": "004001008",
@@ -580,7 +632,8 @@
     ],
     "minValue": 22,
     "maxValue": 44,
-    "tier": 8
+    "tier": 8,
+    "position": 0
   },
   "004001007": {
     "id": "004001007",
@@ -591,7 +644,8 @@
     ],
     "minValue": 41,
     "maxValue": 82,
-    "tier": 7
+    "tier": 7,
+    "position": 0
   },
   "004001006": {
     "id": "004001006",
@@ -602,7 +656,8 @@
     ],
     "minValue": 65,
     "maxValue": 131,
-    "tier": 6
+    "tier": 6,
+    "position": 0
   },
   "004001005": {
     "id": "004001005",
@@ -613,7 +668,8 @@
     ],
     "minValue": 95,
     "maxValue": 191,
-    "tier": 5
+    "tier": 5,
+    "position": 0
   },
   "004001004": {
     "id": "004001004",
@@ -624,7 +680,8 @@
     ],
     "minValue": 130,
     "maxValue": 261,
-    "tier": 4
+    "tier": 4,
+    "position": 0
   },
   "004001003": {
     "id": "004001003",
@@ -635,7 +692,8 @@
     ],
     "minValue": 171,
     "maxValue": 342,
-    "tier": 3
+    "tier": 3,
+    "position": 0
   },
   "004001002": {
     "id": "004001002",
@@ -646,7 +704,8 @@
     ],
     "minValue": 216,
     "maxValue": 432,
-    "tier": 2
+    "tier": 2,
+    "position": 0
   },
   "004001001": {
     "id": "004001001",
@@ -657,7 +716,8 @@
     ],
     "minValue": 265,
     "maxValue": 531,
-    "tier": 1
+    "tier": 1,
+    "position": 0
   },
   "0040030010": {
     "id": "0040030010",
@@ -668,7 +728,8 @@
     ],
     "minValue": 5,
     "maxValue": 10,
-    "tier": 10
+    "tier": 10,
+    "position": 0
   },
   "004003009": {
     "id": "004003009",
@@ -679,7 +740,8 @@
     ],
     "minValue": 10,
     "maxValue": 20,
-    "tier": 9
+    "tier": 9,
+    "position": 0
   },
   "004003008": {
     "id": "004003008",
@@ -690,7 +752,8 @@
     ],
     "minValue": 22,
     "maxValue": 44,
-    "tier": 8
+    "tier": 8,
+    "position": 0
   },
   "004003007": {
     "id": "004003007",
@@ -701,7 +764,8 @@
     ],
     "minValue": 41,
     "maxValue": 82,
-    "tier": 7
+    "tier": 7,
+    "position": 0
   },
   "004003006": {
     "id": "004003006",
@@ -712,7 +776,8 @@
     ],
     "minValue": 65,
     "maxValue": 131,
-    "tier": 6
+    "tier": 6,
+    "position": 0
   },
   "004003005": {
     "id": "004003005",
@@ -723,7 +788,8 @@
     ],
     "minValue": 95,
     "maxValue": 191,
-    "tier": 5
+    "tier": 5,
+    "position": 0
   },
   "004003004": {
     "id": "004003004",
@@ -734,7 +800,8 @@
     ],
     "minValue": 130,
     "maxValue": 261,
-    "tier": 4
+    "tier": 4,
+    "position": 0
   },
   "004003003": {
     "id": "004003003",
@@ -745,7 +812,8 @@
     ],
     "minValue": 171,
     "maxValue": 342,
-    "tier": 3
+    "tier": 3,
+    "position": 0
   },
   "004003002": {
     "id": "004003002",
@@ -756,7 +824,8 @@
     ],
     "minValue": 216,
     "maxValue": 432,
-    "tier": 2
+    "tier": 2,
+    "position": 0
   },
   "004003001": {
     "id": "004003001",
@@ -767,7 +836,8 @@
     ],
     "minValue": 265,
     "maxValue": 531,
-    "tier": 1
+    "tier": 1,
+    "position": 0
   },
   "0050010010": {
     "id": "0050010010",
@@ -781,7 +851,8 @@
     ],
     "minValue": 2,
     "maxValue": 3,
-    "tier": 10
+    "tier": 10,
+    "position": 1
   },
   "005001009": {
     "id": "005001009",
@@ -795,7 +866,8 @@
     ],
     "minValue": 3,
     "maxValue": 6,
-    "tier": 9
+    "tier": 9,
+    "position": 1
   },
   "005001008": {
     "id": "005001008",
@@ -809,7 +881,8 @@
     ],
     "minValue": 6,
     "maxValue": 9,
-    "tier": 8
+    "tier": 8,
+    "position": 1
   },
   "005001007": {
     "id": "005001007",
@@ -823,7 +896,8 @@
     ],
     "minValue": 9,
     "maxValue": 14,
-    "tier": 7
+    "tier": 7,
+    "position": 1
   },
   "005001006": {
     "id": "005001006",
@@ -837,7 +911,8 @@
     ],
     "minValue": 12,
     "maxValue": 18,
-    "tier": 6
+    "tier": 6,
+    "position": 1
   },
   "005001005": {
     "id": "005001005",
@@ -851,7 +926,8 @@
     ],
     "minValue": 15,
     "maxValue": 23,
-    "tier": 5
+    "tier": 5,
+    "position": 1
   },
   "005001004": {
     "id": "005001004",
@@ -865,7 +941,8 @@
     ],
     "minValue": 18,
     "maxValue": 28,
-    "tier": 4
+    "tier": 4,
+    "position": 1
   },
   "005001003": {
     "id": "005001003",
@@ -879,7 +956,8 @@
     ],
     "minValue": 21,
     "maxValue": 33,
-    "tier": 3
+    "tier": 3,
+    "position": 1
   },
   "005001002": {
     "id": "005001002",
@@ -893,7 +971,8 @@
     ],
     "minValue": 25,
     "maxValue": 38,
-    "tier": 2
+    "tier": 2,
+    "position": 1
   },
   "005001001": {
     "id": "005001001",
@@ -907,7 +986,8 @@
     ],
     "minValue": 28,
     "maxValue": 43,
-    "tier": 1
+    "tier": 1,
+    "position": 1
   },
   "0060030010": {
     "id": "0060030010",
@@ -919,7 +999,8 @@
     ],
     "minValue": 7,
     "maxValue": 9,
-    "tier": 10
+    "tier": 10,
+    "position": 1
   },
   "006003009": {
     "id": "006003009",
@@ -931,7 +1012,8 @@
     ],
     "minValue": 9,
     "maxValue": 12,
-    "tier": 9
+    "tier": 9,
+    "position": 1
   },
   "006003008": {
     "id": "006003008",
@@ -943,7 +1025,8 @@
     ],
     "minValue": 12,
     "maxValue": 16,
-    "tier": 8
+    "tier": 8,
+    "position": 1
   },
   "006003007": {
     "id": "006003007",
@@ -955,7 +1038,8 @@
     ],
     "minValue": 16,
     "maxValue": 22,
-    "tier": 7
+    "tier": 7,
+    "position": 1
   },
   "006003006": {
     "id": "006003006",
@@ -967,7 +1051,8 @@
     ],
     "minValue": 20,
     "maxValue": 28,
-    "tier": 6
+    "tier": 6,
+    "position": 1
   },
   "006003005": {
     "id": "006003005",
@@ -979,7 +1064,8 @@
     ],
     "minValue": 24,
     "maxValue": 35,
-    "tier": 5
+    "tier": 5,
+    "position": 1
   },
   "006003004": {
     "id": "006003004",
@@ -991,7 +1077,8 @@
     ],
     "minValue": 28,
     "maxValue": 42,
-    "tier": 4
+    "tier": 4,
+    "position": 1
   },
   "006003003": {
     "id": "006003003",
@@ -1003,7 +1090,8 @@
     ],
     "minValue": 33,
     "maxValue": 49,
-    "tier": 3
+    "tier": 3,
+    "position": 1
   },
   "006003002": {
     "id": "006003002",
@@ -1015,7 +1103,8 @@
     ],
     "minValue": 37,
     "maxValue": 56,
-    "tier": 2
+    "tier": 2,
+    "position": 1
   },
   "006003001": {
     "id": "006003001",
@@ -1027,7 +1116,8 @@
     ],
     "minValue": 42,
     "maxValue": 64,
-    "tier": 1
+    "tier": 1,
+    "position": 1
   },
   "0070030010": {
     "id": "0070030010",
@@ -1039,7 +1129,8 @@
     ],
     "minValue": 7,
     "maxValue": 9,
-    "tier": 10
+    "tier": 10,
+    "position": 1
   },
   "007003009": {
     "id": "007003009",
@@ -1051,7 +1142,8 @@
     ],
     "minValue": 9,
     "maxValue": 12,
-    "tier": 9
+    "tier": 9,
+    "position": 1
   },
   "007003008": {
     "id": "007003008",
@@ -1063,7 +1155,8 @@
     ],
     "minValue": 12,
     "maxValue": 16,
-    "tier": 8
+    "tier": 8,
+    "position": 1
   },
   "007003007": {
     "id": "007003007",
@@ -1075,7 +1168,8 @@
     ],
     "minValue": 16,
     "maxValue": 22,
-    "tier": 7
+    "tier": 7,
+    "position": 1
   },
   "007003006": {
     "id": "007003006",
@@ -1087,7 +1181,8 @@
     ],
     "minValue": 20,
     "maxValue": 28,
-    "tier": 6
+    "tier": 6,
+    "position": 1
   },
   "007003005": {
     "id": "007003005",
@@ -1099,7 +1194,8 @@
     ],
     "minValue": 24,
     "maxValue": 35,
-    "tier": 5
+    "tier": 5,
+    "position": 1
   },
   "007003004": {
     "id": "007003004",
@@ -1111,7 +1207,8 @@
     ],
     "minValue": 28,
     "maxValue": 42,
-    "tier": 4
+    "tier": 4,
+    "position": 1
   },
   "007003003": {
     "id": "007003003",
@@ -1123,7 +1220,8 @@
     ],
     "minValue": 33,
     "maxValue": 49,
-    "tier": 3
+    "tier": 3,
+    "position": 1
   },
   "007003002": {
     "id": "007003002",
@@ -1135,7 +1233,8 @@
     ],
     "minValue": 37,
     "maxValue": 56,
-    "tier": 2
+    "tier": 2,
+    "position": 1
   },
   "007003001": {
     "id": "007003001",
@@ -1147,7 +1246,8 @@
     ],
     "minValue": 42,
     "maxValue": 64,
-    "tier": 1
+    "tier": 1,
+    "position": 1
   },
   "0080030010": {
     "id": "0080030010",
@@ -1158,7 +1258,8 @@
     ],
     "minValue": 8,
     "maxValue": 11,
-    "tier": 10
+    "tier": 10,
+    "position": 1
   },
   "008003009": {
     "id": "008003009",
@@ -1169,7 +1270,8 @@
     ],
     "minValue": 11,
     "maxValue": 15,
-    "tier": 9
+    "tier": 9,
+    "position": 1
   },
   "008003008": {
     "id": "008003008",
@@ -1180,7 +1282,8 @@
     ],
     "minValue": 17,
     "maxValue": 25,
-    "tier": 8
+    "tier": 8,
+    "position": 1
   },
   "008003007": {
     "id": "008003007",
@@ -1191,7 +1294,8 @@
     ],
     "minValue": 24,
     "maxValue": 39,
-    "tier": 7
+    "tier": 7,
+    "position": 1
   },
   "008003006": {
     "id": "008003006",
@@ -1202,7 +1306,8 @@
     ],
     "minValue": 33,
     "maxValue": 54,
-    "tier": 6
+    "tier": 6,
+    "position": 1
   },
   "008003005": {
     "id": "008003005",
@@ -1213,7 +1318,8 @@
     ],
     "minValue": 43,
     "maxValue": 71,
-    "tier": 5
+    "tier": 5,
+    "position": 1
   },
   "008003004": {
     "id": "008003004",
@@ -1224,7 +1330,8 @@
     ],
     "minValue": 54,
     "maxValue": 90,
-    "tier": 4
+    "tier": 4,
+    "position": 1
   },
   "008003003": {
     "id": "008003003",
@@ -1235,7 +1342,8 @@
     ],
     "minValue": 66,
     "maxValue": 111,
-    "tier": 3
+    "tier": 3,
+    "position": 1
   },
   "008003002": {
     "id": "008003002",
@@ -1246,7 +1354,8 @@
     ],
     "minValue": 78,
     "maxValue": 133,
-    "tier": 2
+    "tier": 2,
+    "position": 1
   },
   "008003001": {
     "id": "008003001",
@@ -1257,6 +1366,7 @@
     ],
     "minValue": 92,
     "maxValue": 156,
-    "tier": 1
+    "tier": 1,
+    "position": 1
   }
 }
