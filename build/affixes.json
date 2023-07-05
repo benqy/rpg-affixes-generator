@@ -9,6 +9,7 @@
     "minValue": 5,
     "maxValue": 10,
     "tier": 10,
+    "tierName": "锐利",
     "position": 0
   },
   "001001009": {
@@ -21,6 +22,7 @@
     "minValue": 10,
     "maxValue": 20,
     "tier": 9,
+    "tierName": "猛烈",
     "position": 0
   },
   "001001008": {
@@ -33,6 +35,7 @@
     "minValue": 22,
     "maxValue": 44,
     "tier": 8,
+    "tierName": "强劲",
     "position": 0
   },
   "001001007": {
@@ -45,6 +48,7 @@
     "minValue": 41,
     "maxValue": 82,
     "tier": 7,
+    "tierName": "狂暴",
     "position": 0
   },
   "001001006": {
@@ -57,6 +61,7 @@
     "minValue": 65,
     "maxValue": 131,
     "tier": 6,
+    "tierName": "爆发",
     "position": 0
   },
   "001001005": {
@@ -69,6 +74,7 @@
     "minValue": 95,
     "maxValue": 191,
     "tier": 5,
+    "tierName": "激进",
     "position": 0
   },
   "001001004": {
@@ -81,6 +87,7 @@
     "minValue": 130,
     "maxValue": 261,
     "tier": 4,
+    "tierName": "猛力",
     "position": 0
   },
   "001001003": {
@@ -93,6 +100,7 @@
     "minValue": 171,
     "maxValue": 342,
     "tier": 3,
+    "tierName": "无情",
     "position": 0
   },
   "001001002": {
@@ -105,6 +113,7 @@
     "minValue": 216,
     "maxValue": 432,
     "tier": 2,
+    "tierName": "破碎",
     "position": 0
   },
   "001001001": {
@@ -117,6 +126,7 @@
     "minValue": 265,
     "maxValue": 531,
     "tier": 1,
+    "tierName": "虚空",
     "position": 0
   },
   "0010020010": {
@@ -129,6 +139,7 @@
     "minValue": 2,
     "maxValue": 3,
     "tier": 10,
+    "tierName": "锐利",
     "position": 0
   },
   "001002009": {
@@ -141,6 +152,7 @@
     "minValue": 3,
     "maxValue": 6,
     "tier": 9,
+    "tierName": "猛烈",
     "position": 0
   },
   "001002008": {
@@ -153,6 +165,7 @@
     "minValue": 6,
     "maxValue": 9,
     "tier": 8,
+    "tierName": "强劲",
     "position": 0
   },
   "001002007": {
@@ -165,6 +178,7 @@
     "minValue": 9,
     "maxValue": 14,
     "tier": 7,
+    "tierName": "狂暴",
     "position": 0
   },
   "001002006": {
@@ -177,6 +191,7 @@
     "minValue": 12,
     "maxValue": 18,
     "tier": 6,
+    "tierName": "爆发",
     "position": 0
   },
   "001002005": {
@@ -189,6 +204,7 @@
     "minValue": 15,
     "maxValue": 23,
     "tier": 5,
+    "tierName": "激进",
     "position": 0
   },
   "001002004": {
@@ -201,6 +217,7 @@
     "minValue": 18,
     "maxValue": 28,
     "tier": 4,
+    "tierName": "猛力",
     "position": 0
   },
   "001002003": {
@@ -213,6 +230,7 @@
     "minValue": 21,
     "maxValue": 33,
     "tier": 3,
+    "tierName": "无情",
     "position": 0
   },
   "001002002": {
@@ -225,6 +243,7 @@
     "minValue": 25,
     "maxValue": 38,
     "tier": 2,
+    "tierName": "破碎",
     "position": 0
   },
   "001002001": {
@@ -237,6 +256,7 @@
     "minValue": 28,
     "maxValue": 43,
     "tier": 1,
+    "tierName": "虚空",
     "position": 0
   },
   "0010030010": {
@@ -249,6 +269,7 @@
     "minValue": 5,
     "maxValue": 10,
     "tier": 10,
+    "tierName": "锐利",
     "position": 0
   },
   "001003009": {
@@ -261,6 +282,7 @@
     "minValue": 10,
     "maxValue": 20,
     "tier": 9,
+    "tierName": "猛烈",
     "position": 0
   },
   "001003008": {
@@ -273,6 +295,7 @@
     "minValue": 22,
     "maxValue": 44,
     "tier": 8,
+    "tierName": "强劲",
     "position": 0
   },
   "001003007": {
@@ -285,6 +308,7 @@
     "minValue": 41,
     "maxValue": 82,
     "tier": 7,
+    "tierName": "狂暴",
     "position": 0
   },
   "001003006": {
@@ -297,6 +321,7 @@
     "minValue": 65,
     "maxValue": 131,
     "tier": 6,
+    "tierName": "爆发",
     "position": 0
   },
   "001003005": {
@@ -309,6 +334,7 @@
     "minValue": 95,
     "maxValue": 191,
     "tier": 5,
+    "tierName": "激进",
     "position": 0
   },
   "001003004": {
@@ -321,6 +347,7 @@
     "minValue": 130,
     "maxValue": 261,
     "tier": 4,
+    "tierName": "猛力",
     "position": 0
   },
   "001003003": {
@@ -333,6 +360,7 @@
     "minValue": 171,
     "maxValue": 342,
     "tier": 3,
+    "tierName": "无情",
     "position": 0
   },
   "001003002": {
@@ -345,6 +373,7 @@
     "minValue": 216,
     "maxValue": 432,
     "tier": 2,
+    "tierName": "破碎",
     "position": 0
   },
   "001003001": {
@@ -357,6 +386,7 @@
     "minValue": 265,
     "maxValue": 531,
     "tier": 1,
+    "tierName": "虚空",
     "position": 0
   },
   "0020010010": {
@@ -369,6 +399,7 @@
     "minValue": 2,
     "maxValue": 3,
     "tier": 10,
+    "tierName": "迅捷",
     "position": 0
   },
   "002001009": {
@@ -381,6 +412,7 @@
     "minValue": 3,
     "maxValue": 4,
     "tier": 9,
+    "tierName": "飞速",
     "position": 0
   },
   "002001008": {
@@ -393,6 +425,7 @@
     "minValue": 4,
     "maxValue": 6,
     "tier": 8,
+    "tierName": "迅疾",
     "position": 0
   },
   "002001007": {
@@ -405,6 +438,7 @@
     "minValue": 6,
     "maxValue": 9,
     "tier": 7,
+    "tierName": "猎豹",
     "position": 0
   },
   "002001006": {
@@ -417,6 +451,7 @@
     "minValue": 8,
     "maxValue": 11,
     "tier": 6,
+    "tierName": "疾行",
     "position": 0
   },
   "002001005": {
@@ -429,6 +464,7 @@
     "minValue": 9,
     "maxValue": 13,
     "tier": 5,
+    "tierName": "风驰",
     "position": 0
   },
   "002001004": {
@@ -441,6 +477,7 @@
     "minValue": 11,
     "maxValue": 16,
     "tier": 4,
+    "tierName": "飞驰",
     "position": 0
   },
   "002001003": {
@@ -453,6 +490,7 @@
     "minValue": 13,
     "maxValue": 18,
     "tier": 3,
+    "tierName": "风快",
     "position": 0
   },
   "002001002": {
@@ -465,6 +503,7 @@
     "minValue": 14,
     "maxValue": 20,
     "tier": 2,
+    "tierName": "迅速",
     "position": 0
   },
   "002001001": {
@@ -477,6 +516,7 @@
     "minValue": 16,
     "maxValue": 23,
     "tier": 1,
+    "tierName": "飞快",
     "position": 0
   },
   "0030010010": {
@@ -489,6 +529,7 @@
     "minValue": 5,
     "maxValue": 10,
     "tier": 10,
+    "tierName": "生机",
     "position": 0
   },
   "003001009": {
@@ -501,6 +542,7 @@
     "minValue": 10,
     "maxValue": 20,
     "tier": 9,
+    "tierName": "活力",
     "position": 0
   },
   "003001008": {
@@ -513,6 +555,7 @@
     "minValue": 22,
     "maxValue": 44,
     "tier": 8,
+    "tierName": "庇佑",
     "position": 0
   },
   "003001007": {
@@ -525,6 +568,7 @@
     "minValue": 41,
     "maxValue": 82,
     "tier": 7,
+    "tierName": "强韧",
     "position": 0
   },
   "003001006": {
@@ -537,6 +581,7 @@
     "minValue": 65,
     "maxValue": 131,
     "tier": 6,
+    "tierName": "蓬勃",
     "position": 0
   },
   "003001005": {
@@ -549,6 +594,7 @@
     "minValue": 95,
     "maxValue": 191,
     "tier": 5,
+    "tierName": "恢复",
     "position": 0
   },
   "003001004": {
@@ -561,6 +607,7 @@
     "minValue": 130,
     "maxValue": 261,
     "tier": 4,
+    "tierName": "充盈",
     "position": 0
   },
   "003001003": {
@@ -573,6 +620,7 @@
     "minValue": 171,
     "maxValue": 342,
     "tier": 3,
+    "tierName": "健康",
     "position": 0
   },
   "003001002": {
@@ -585,6 +633,7 @@
     "minValue": 216,
     "maxValue": 432,
     "tier": 2,
+    "tierName": "鲜活",
     "position": 0
   },
   "003001001": {
@@ -597,6 +646,7 @@
     "minValue": 265,
     "maxValue": 531,
     "tier": 1,
+    "tierName": "长存",
     "position": 0
   },
   "0040010010": {
@@ -609,6 +659,7 @@
     "minValue": 5,
     "maxValue": 10,
     "tier": 10,
+    "tierName": "坚固",
     "position": 0
   },
   "004001009": {
@@ -621,6 +672,7 @@
     "minValue": 10,
     "maxValue": 20,
     "tier": 9,
+    "tierName": "厚重",
     "position": 0
   },
   "004001008": {
@@ -633,6 +685,7 @@
     "minValue": 22,
     "maxValue": 44,
     "tier": 8,
+    "tierName": "坚硬",
     "position": 0
   },
   "004001007": {
@@ -645,6 +698,7 @@
     "minValue": 41,
     "maxValue": 82,
     "tier": 7,
+    "tierName": "稳固",
     "position": 0
   },
   "004001006": {
@@ -657,6 +711,7 @@
     "minValue": 65,
     "maxValue": 131,
     "tier": 6,
+    "tierName": "严密",
     "position": 0
   },
   "004001005": {
@@ -669,6 +724,7 @@
     "minValue": 95,
     "maxValue": 191,
     "tier": 5,
+    "tierName": "牢固",
     "position": 0
   },
   "004001004": {
@@ -681,6 +737,7 @@
     "minValue": 130,
     "maxValue": 261,
     "tier": 4,
+    "tierName": "结实",
     "position": 0
   },
   "004001003": {
@@ -693,6 +750,7 @@
     "minValue": 171,
     "maxValue": 342,
     "tier": 3,
+    "tierName": "防御",
     "position": 0
   },
   "004001002": {
@@ -705,6 +763,7 @@
     "minValue": 216,
     "maxValue": 432,
     "tier": 2,
+    "tierName": "可靠",
     "position": 0
   },
   "004001001": {
@@ -717,6 +776,7 @@
     "minValue": 265,
     "maxValue": 531,
     "tier": 1,
+    "tierName": "坚实",
     "position": 0
   },
   "0040030010": {
@@ -729,6 +789,7 @@
     "minValue": 5,
     "maxValue": 10,
     "tier": 10,
+    "tierName": "坚固",
     "position": 0
   },
   "004003009": {
@@ -741,6 +802,7 @@
     "minValue": 10,
     "maxValue": 20,
     "tier": 9,
+    "tierName": "厚重",
     "position": 0
   },
   "004003008": {
@@ -753,6 +815,7 @@
     "minValue": 22,
     "maxValue": 44,
     "tier": 8,
+    "tierName": "坚硬",
     "position": 0
   },
   "004003007": {
@@ -765,6 +828,7 @@
     "minValue": 41,
     "maxValue": 82,
     "tier": 7,
+    "tierName": "稳固",
     "position": 0
   },
   "004003006": {
@@ -777,6 +841,7 @@
     "minValue": 65,
     "maxValue": 131,
     "tier": 6,
+    "tierName": "严密",
     "position": 0
   },
   "004003005": {
@@ -789,6 +854,7 @@
     "minValue": 95,
     "maxValue": 191,
     "tier": 5,
+    "tierName": "牢固",
     "position": 0
   },
   "004003004": {
@@ -801,6 +867,7 @@
     "minValue": 130,
     "maxValue": 261,
     "tier": 4,
+    "tierName": "结实",
     "position": 0
   },
   "004003003": {
@@ -813,6 +880,7 @@
     "minValue": 171,
     "maxValue": 342,
     "tier": 3,
+    "tierName": "防御",
     "position": 0
   },
   "004003002": {
@@ -825,6 +893,7 @@
     "minValue": 216,
     "maxValue": 432,
     "tier": 2,
+    "tierName": "可靠",
     "position": 0
   },
   "004003001": {
@@ -837,6 +906,7 @@
     "minValue": 265,
     "maxValue": 531,
     "tier": 1,
+    "tierName": "坚实",
     "position": 0
   },
   "0050010010": {
@@ -852,6 +922,7 @@
     "minValue": 2,
     "maxValue": 3,
     "tier": 10,
+    "tierName": "坚固",
     "position": 1
   },
   "005001009": {
@@ -867,6 +938,7 @@
     "minValue": 3,
     "maxValue": 6,
     "tier": 9,
+    "tierName": "抵御",
     "position": 1
   },
   "005001008": {
@@ -882,6 +954,7 @@
     "minValue": 6,
     "maxValue": 9,
     "tier": 8,
+    "tierName": "守护",
     "position": 1
   },
   "005001007": {
@@ -897,6 +970,7 @@
     "minValue": 9,
     "maxValue": 14,
     "tier": 7,
+    "tierName": "钢铁",
     "position": 1
   },
   "005001006": {
@@ -912,6 +986,7 @@
     "minValue": 12,
     "maxValue": 18,
     "tier": 6,
+    "tierName": "坚定",
     "position": 1
   },
   "005001005": {
@@ -927,6 +1002,7 @@
     "minValue": 15,
     "maxValue": 23,
     "tier": 5,
+    "tierName": "防护",
     "position": 1
   },
   "005001004": {
@@ -942,6 +1018,7 @@
     "minValue": 18,
     "maxValue": 28,
     "tier": 4,
+    "tierName": "抗拒",
     "position": 1
   },
   "005001003": {
@@ -957,6 +1034,7 @@
     "minValue": 21,
     "maxValue": 33,
     "tier": 3,
+    "tierName": "抗衡",
     "position": 1
   },
   "005001002": {
@@ -972,6 +1050,7 @@
     "minValue": 25,
     "maxValue": 38,
     "tier": 2,
+    "tierName": "免疫",
     "position": 1
   },
   "005001001": {
@@ -987,6 +1066,7 @@
     "minValue": 28,
     "maxValue": 43,
     "tier": 1,
+    "tierName": "抵挡",
     "position": 1
   },
   "0060030010": {
@@ -1000,6 +1080,7 @@
     "minValue": 7,
     "maxValue": 9,
     "tier": 10,
+    "tierName": "强悍",
     "position": 1
   },
   "006003009": {
@@ -1013,6 +1094,7 @@
     "minValue": 9,
     "maxValue": 12,
     "tier": 9,
+    "tierName": "雄壮",
     "position": 1
   },
   "006003008": {
@@ -1026,6 +1108,7 @@
     "minValue": 12,
     "maxValue": 16,
     "tier": 8,
+    "tierName": "威武",
     "position": 1
   },
   "006003007": {
@@ -1039,6 +1122,7 @@
     "minValue": 16,
     "maxValue": 22,
     "tier": 7,
+    "tierName": "刚毅",
     "position": 1
   },
   "006003006": {
@@ -1052,6 +1136,7 @@
     "minValue": 20,
     "maxValue": 28,
     "tier": 6,
+    "tierName": "雄狮",
     "position": 1
   },
   "006003005": {
@@ -1065,6 +1150,7 @@
     "minValue": 24,
     "maxValue": 35,
     "tier": 5,
+    "tierName": "巨力",
     "position": 1
   },
   "006003004": {
@@ -1078,6 +1164,7 @@
     "minValue": 28,
     "maxValue": 42,
     "tier": 4,
+    "tierName": "雄健",
     "position": 1
   },
   "006003003": {
@@ -1091,6 +1178,7 @@
     "minValue": 33,
     "maxValue": 49,
     "tier": 3,
+    "tierName": "猛兽",
     "position": 1
   },
   "006003002": {
@@ -1104,6 +1192,7 @@
     "minValue": 37,
     "maxValue": 56,
     "tier": 2,
+    "tierName": "力牛",
     "position": 1
   },
   "006003001": {
@@ -1117,6 +1206,7 @@
     "minValue": 42,
     "maxValue": 64,
     "tier": 1,
+    "tierName": "勇猛",
     "position": 1
   },
   "0070030010": {
@@ -1130,6 +1220,7 @@
     "minValue": 7,
     "maxValue": 9,
     "tier": 10,
+    "tierName": "敏捷",
     "position": 1
   },
   "007003009": {
@@ -1143,6 +1234,7 @@
     "minValue": 9,
     "maxValue": 12,
     "tier": 9,
+    "tierName": "灵活",
     "position": 1
   },
   "007003008": {
@@ -1156,6 +1248,7 @@
     "minValue": 12,
     "maxValue": 16,
     "tier": 8,
+    "tierName": "迅捷",
     "position": 1
   },
   "007003007": {
@@ -1169,6 +1262,7 @@
     "minValue": 16,
     "maxValue": 22,
     "tier": 7,
+    "tierName": "敏锐",
     "position": 1
   },
   "007003006": {
@@ -1182,6 +1276,7 @@
     "minValue": 20,
     "maxValue": 28,
     "tier": 6,
+    "tierName": "矫捷",
     "position": 1
   },
   "007003005": {
@@ -1195,6 +1290,7 @@
     "minValue": 24,
     "maxValue": 35,
     "tier": 5,
+    "tierName": "疾步",
     "position": 1
   },
   "007003004": {
@@ -1208,6 +1304,7 @@
     "minValue": 28,
     "maxValue": 42,
     "tier": 4,
+    "tierName": "敏猫",
     "position": 1
   },
   "007003003": {
@@ -1221,6 +1318,7 @@
     "minValue": 33,
     "maxValue": 49,
     "tier": 3,
+    "tierName": "机敏",
     "position": 1
   },
   "007003002": {
@@ -1234,6 +1332,7 @@
     "minValue": 37,
     "maxValue": 56,
     "tier": 2,
+    "tierName": "灵狐",
     "position": 1
   },
   "007003001": {
@@ -1247,6 +1346,7 @@
     "minValue": 42,
     "maxValue": 64,
     "tier": 1,
+    "tierName": "捷豹",
     "position": 1
   },
   "0080030010": {
@@ -1259,6 +1359,7 @@
     "minValue": 8,
     "maxValue": 11,
     "tier": 10,
+    "tierName": "聪慧",
     "position": 1
   },
   "008003009": {
@@ -1271,6 +1372,7 @@
     "minValue": 11,
     "maxValue": 15,
     "tier": 9,
+    "tierName": "智慧",
     "position": 1
   },
   "008003008": {
@@ -1283,6 +1385,7 @@
     "minValue": 17,
     "maxValue": 25,
     "tier": 8,
+    "tierName": "睿智",
     "position": 1
   },
   "008003007": {
@@ -1295,6 +1398,7 @@
     "minValue": 24,
     "maxValue": 39,
     "tier": 7,
+    "tierName": "聪颖",
     "position": 1
   },
   "008003006": {
@@ -1307,6 +1411,7 @@
     "minValue": 33,
     "maxValue": 54,
     "tier": 6,
+    "tierName": "明晰",
     "position": 1
   },
   "008003005": {
@@ -1319,6 +1424,7 @@
     "minValue": 43,
     "maxValue": 71,
     "tier": 5,
+    "tierName": "智者",
     "position": 1
   },
   "008003004": {
@@ -1331,6 +1437,7 @@
     "minValue": 54,
     "maxValue": 90,
     "tier": 4,
+    "tierName": "明哲",
     "position": 1
   },
   "008003003": {
@@ -1343,6 +1450,7 @@
     "minValue": 66,
     "maxValue": 111,
     "tier": 3,
+    "tierName": "博学",
     "position": 1
   },
   "008003002": {
@@ -1355,6 +1463,7 @@
     "minValue": 78,
     "maxValue": 133,
     "tier": 2,
+    "tierName": "机智",
     "position": 1
   },
   "008003001": {
@@ -1367,6 +1476,7 @@
     "minValue": 92,
     "maxValue": 156,
     "tier": 1,
+    "tierName": "智囊",
     "position": 1
   }
 }

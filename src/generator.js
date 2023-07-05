@@ -18,6 +18,7 @@ export const generate = (tag) => {
       // descTmpl = descTmpl.replace('n', minValue)
       // descTmpl = descTmpl.replace('m', maxValue)
       const id = '' + root.id + VALUE_TYPES[type].id + '00' + tier
+      const tierName = root.tierNames[MAX_TIER - tier]
       const affix  = {
         id,
         name: root.name,
@@ -26,6 +27,7 @@ export const generate = (tag) => {
         minValue,
         maxValue,
         tier,
+        tierName,
         position: root.position,
       }
       affixs[id] = affix
