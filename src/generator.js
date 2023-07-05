@@ -8,7 +8,7 @@ export const generate = (tag) => {
   const affixs = []
   root.valueTypes.forEach((type) => {
     const groupId = '' + root.id + VALUE_TYPES[type].id
-    const group = {tierLimit:{},[groupId]: []}
+    const group = {tierLimit:{},data: [],position: root.position}
     //计算该分组在每个部位是否会出现(最高tier为10,11即不会出现)
     Object.keys(root.tierLimit).forEach(key => {
       group.tierLimit[key] = root.tierLimit[key] !== 11
@@ -44,7 +44,7 @@ export const generate = (tag) => {
         position: root.position,
         tierLimit,
       }
-      group[groupId].push(affix)
+      group.data.push(affix)
       console.log(JSON.stringify(affix))
       // console.log(`t${tier}: ${id} ${descTmpl}`)
       

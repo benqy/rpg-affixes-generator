@@ -13,7 +13,7 @@
       "ring": true,
       "shield": true
     },
-    "001001": [
+    "data": [
       {
         "id": "0010010010",
         "name": "damage",
@@ -196,7 +196,8 @@
           "shield": false
         }
       }
-    ]
+    ],
+    "position": 0
   },
   {
     "tierLimit": {
@@ -212,7 +213,7 @@
       "ring": true,
       "shield": true
     },
-    "001002": [
+    "data": [
       {
         "id": "0010020010",
         "name": "damage",
@@ -395,7 +396,8 @@
           "shield": false
         }
       }
-    ]
+    ],
+    "position": 0
   },
   {
     "tierLimit": {
@@ -411,7 +413,7 @@
       "ring": true,
       "shield": true
     },
-    "001003": [
+    "data": [
       {
         "id": "0010030010",
         "name": "damage",
@@ -594,7 +596,8 @@
           "shield": false
         }
       }
-    ]
+    ],
+    "position": 0
   },
   {
     "tierLimit": {
@@ -610,7 +613,7 @@
       "ring": true,
       "shield": true
     },
-    "002001": [
+    "data": [
       {
         "id": "0020010010",
         "name": "speed",
@@ -793,7 +796,8 @@
           "shield": false
         }
       }
-    ]
+    ],
+    "position": 0
   },
   {
     "tierLimit": {
@@ -809,7 +813,7 @@
       "ring": true,
       "shield": true
     },
-    "003001": [
+    "data": [
       {
         "id": "0030010010",
         "name": "hitPoint",
@@ -992,7 +996,8 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 0
   },
   {
     "tierLimit": {
@@ -1008,7 +1013,7 @@
       "ring": true,
       "shield": true
     },
-    "004001": [
+    "data": [
       {
         "id": "0040010010",
         "name": "arrmor",
@@ -1191,7 +1196,8 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 0
   },
   {
     "tierLimit": {
@@ -1207,7 +1213,7 @@
       "ring": true,
       "shield": true
     },
-    "004003": [
+    "data": [
       {
         "id": "0040030010",
         "name": "arrmor",
@@ -1390,7 +1396,8 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 0
   },
   {
     "tierLimit": {
@@ -1406,7 +1413,7 @@
       "ring": true,
       "shield": true
     },
-    "005001": [
+    "data": [
       {
         "id": "0050010010",
         "name": "resistance",
@@ -1610,7 +1617,8 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 1
   },
   {
     "tierLimit": {
@@ -1626,7 +1634,7 @@
       "ring": true,
       "shield": true
     },
-    "006003": [
+    "data": [
       {
         "id": "0060030010",
         "name": "strength",
@@ -1816,7 +1824,8 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 1
   },
   {
     "tierLimit": {
@@ -1832,7 +1841,7 @@
       "ring": true,
       "shield": true
     },
-    "007003": [
+    "data": [
       {
         "id": "0070030010",
         "name": "dexterity",
@@ -2022,7 +2031,8 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 1
   },
   {
     "tierLimit": {
@@ -2038,7 +2048,7 @@
       "ring": true,
       "shield": true
     },
-    "008003": [
+    "data": [
       {
         "id": "0080030010",
         "name": "intelligence",
@@ -2228,7 +2238,8 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 1
   },
   {
     "tierLimit": {
@@ -2244,7 +2255,7 @@
       "ring": true,
       "shield": true
     },
-    "009003": [
+    "data": [
       {
         "id": "0090030010",
         "name": "regenerate",
@@ -2427,6 +2438,7 @@
           "shield": true
         }
       }
-    ]
+    ],
+    "position": 1
   }
 ]
