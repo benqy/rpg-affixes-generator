@@ -19,6 +19,11 @@ export const generate = (tag) => {
       // descTmpl = descTmpl.replace('m', maxValue)
       const id = '' + root.id + VALUE_TYPES[type].id + '00' + tier
       const tierName = root.tierNames[MAX_TIER - tier]
+      const tierLimit = {}
+      const limitKeys = Object.keys(root.tierLimit)
+      limitKeys.forEach(key => {
+        tierLimit[key] = root.tierLimit[key] <= tier
+      })
       const affix  = {
         id,
         name: root.name,
@@ -29,6 +34,7 @@ export const generate = (tag) => {
         tier,
         tierName,
         position: root.position,
+        tierLimit,
       }
       affixs[id] = affix
       console.log(JSON.stringify(affix))
