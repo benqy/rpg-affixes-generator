@@ -101,7 +101,7 @@ export const VALUE_TYPES = [
     name: 'increase',
     text: '提高',
     id:'001',
-    desc: '#text n% - m%',
+    desc: '#text n%',
     /**
      * 伤害成长公式
      * baseValue一般情况下就是t10词缀的基础数值
@@ -116,7 +116,7 @@ export const VALUE_TYPES = [
     name: 'more',
     text: '更多',
     id:'002',
-    desc: 'n% - m% text#',
+    desc: 'n% text#',
     tierFormula: function(t, baseValue){
       return Math.pow(baseValue + (10 - t) * baseValue * Math.pow((10 - t), 0.8),0.6)
     }
@@ -125,7 +125,7 @@ export const VALUE_TYPES = [
     name: 'add',
     text: '增加',
     id:'003',
-    desc: 'text n - m #',
+    desc: 'text n #',
     tierFormula: function(t, baseValue){
       return baseValue + (10 - t) * baseValue * Math.pow((10 - t), 0.8)
     }
