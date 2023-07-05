@@ -17,21 +17,21 @@ export const printListByTag = (tag) => {
       let descTmpl = VALUE_TYPES[type].desc
       descTmpl = descTmpl.replace('#', root.text)
       descTmpl = descTmpl.replace('text', VALUE_TYPES[type].text)
-      descTmpl = descTmpl.replace('n', minValue)
-      descTmpl = descTmpl.replace('m', maxValue)
+      // descTmpl = descTmpl.replace('n', minValue)
+      // descTmpl = descTmpl.replace('m', maxValue)
       const id = '' + root.id + VALUE_TYPES[type].id + '00' + tier
       const affix  = {
         id,
         name: root.name,
-        text: descTmpl,
+        desc: descTmpl,
         tags: root.tags,
         minValue,
         maxValue,
         tier,
       }
       affixs[id] = affix
-      // console.log(JSON.stringify(affix))
-      console.log(`t${tier}: ${id} ${descTmpl}`)
+      console.log(JSON.stringify(affix))
+      // console.log(`t${tier}: ${id} ${descTmpl}`)
       
     }
     console.log('----------------')

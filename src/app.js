@@ -10,6 +10,8 @@ fse.outputFile('./build/affixes.json', JSON.stringify(affixes), (err) => {
   console.log(err)
 })
 
+// printListByTag('regenerate')
+
 /**
  * {
     "name": "xx头盔",

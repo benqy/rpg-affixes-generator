@@ -21,7 +21,7 @@ export const ROOTS = [
     position:'prefix',
     id:'002',
     valueTypes: [0],
-    tierNames:['迅捷', '飞速', '迅疾', '敏捷', '疾行', '风驰', '飞驰', '风快', '迅速', '飞快'],
+    tierNames:['迅捷', '飞速', '迅疾', '猎豹', '疾行', '风驰', '飞驰', '风快', '迅速', '飞快'],
     tierFormula: value => Math.pow(value, 0.5)
   },
   {
@@ -51,6 +51,46 @@ export const ROOTS = [
     valueTypes: [0],
     tierNames:['坚固', '抵御', '守护', '钢铁', '坚定', '防护', '抗拒', '抗衡', '免疫', '抵挡'],
     tierFormula: value => Math.pow(value, 0.6)
+  },
+  {
+    name:'strength',
+    text:'力量',
+    tags:['attr','strength'],
+    position:'suffix',
+    id:'006',
+    valueTypes: [2],
+    tierNames:['强悍', '雄壮', '威武', '刚毅', '雄狮', '巨力', '雄健', '猛兽', '力牛', '勇猛'],
+    tierFormula: value => Math.pow(value, 0.65) + 5
+  },
+  {
+    name:'dexterity',
+    text:'敏捷',
+    tags:['attr','dexterity'],
+    position:'suffix',
+    id:'007',
+    valueTypes: [2],
+    tierNames:['敏捷', '灵活', '迅捷', '敏锐', '矫捷', '疾步', '敏猫', '机敏', '灵狐', '捷豹'],
+    tierFormula: value => Math.pow(value, 0.65) + 5
+  },
+  {
+    name:'intelligence',
+    text:'智力',
+    tags:['attr','intelligence'],
+    position:'suffix',
+    id:'008',
+    valueTypes: [2],
+    tierNames:['聪慧', '智慧', '睿智', '聪颖', '明晰', '智者', '明哲', '博学', '机智', '智囊'],
+    tierFormula: value => Math.pow(value, 0.65) + 5
+  },
+  {
+    name:'regenerate',
+    text:'生命恢复',
+    tags:['regenerate'],
+    position:'suffix',
+    id:'008',
+    valueTypes: [2],
+    tierNames:['聪慧', '智慧', '睿智', '聪颖', '明晰', '智者', '明哲', '博学', '机智', '智囊'],
+    tierFormula: value => Math.pow(value, 0.8) + 5
   }
 ]
 
