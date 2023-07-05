@@ -5,8 +5,16 @@ const emptyFormula = value => value
 
 export const generate = (tag) => {
   const root = ROOTS.filter((root) => root.name === tag)[0]
-  const affixs = {}
+  const affixs = []
   root.valueTypes.forEach((type) => {
+    const groupId = '' + root.id + VALUE_TYPES[type].id
+    const group = {}
+    group[groupId] = {data:[],tierLimit:{}}
+    //计算该分组在每个部位是否会出现(最高tier为10,11即不会出现)
+    Object.keys(root.tierLimit).forEach(key => {
+      group[groupId].tierLimit[key] = root.tierLimit[key] !== 11
+    })
+
     for(let tier = MAX_TIER; tier >= MIN_TIER; tier--){
       // console.log(`${root.text} ${root.baseValue} ${root.types}`)
       const extendFormula = root.tierFormula || emptyFormula
@@ -17,10 +25,11 @@ export const generate = (tag) => {
       descTmpl = descTmpl.replace('text', VALUE_TYPES[type].text)
       // descTmpl = descTmpl.replace('n', minValue)
       // descTmpl = descTmpl.replace('m', maxValue)
-      const id = '' + root.id + VALUE_TYPES[type].id + '00' + tier
+      const id = groupId + '00' + tier
       const tierName = root.tierNames[MAX_TIER - tier]
       const tierLimit = {}
       const limitKeys = Object.keys(root.tierLimit)
+      //计算该tier在每个部位是否会出现
       limitKeys.forEach(key => {
         tierLimit[key] = root.tierLimit[key] <= tier
       })
@@ -36,11 +45,12 @@ export const generate = (tag) => {
         position: root.position,
         tierLimit,
       }
-      affixs[id] = affix
+      group[groupId].data.push(affix)
       console.log(JSON.stringify(affix))
       // console.log(`t${tier}: ${id} ${descTmpl}`)
       
     }
+    affixs.push(group)
     console.log('----------------')
   })
   return affixs
