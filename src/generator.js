@@ -41,6 +41,7 @@ export const generate = (tag) => {
         maxValue,
         tier,
         tierName,
+        func: VALUE_TYPES[type].name,
         position: root.position,
         tierLimit,
       }

@@ -80,7 +80,7 @@ export const ROOTS = [
     tags: ['hitPoint'],
     position: 0,
     id: '003',
-    valueTypes: [0],
+    valueTypes: [2],
     tierNames: [
       '生机',
       '活力',
@@ -122,7 +122,7 @@ export const ROOTS = [
     tags: ['resistance', 'fire', 'cold', 'lightning'],
     position: 1,
     id: '005',
-    valueTypes: [0],
+    valueTypes: [2],
     tierNames: [
       '坚固',
       '抵御',
