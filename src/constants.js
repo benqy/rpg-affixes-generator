@@ -96,9 +96,9 @@ export const ROOTS = [
     tierLimit: defenceLimit,
   },
   {
-    name: 'arrmor',
+    name: 'armour',
     text: '护甲',
-    tags: ['arrmor'],
+    tags: ['armour'],
     position: 0,
     id: '004',
     valueTypes: [0, 2],
