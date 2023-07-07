@@ -96,9 +96,9 @@ export const ROOTS = [
     tierLimit: defenceLimit,
   },
   {
-    name: 'arrmor',
+    name: 'armour',
     text: '护甲',
-    tags: ['arrmor'],
+    tags: ['armour defence'],
     position: 0,
     id: '004',
     valueTypes: [0, 2],
@@ -119,7 +119,7 @@ export const ROOTS = [
   {
     name: 'resistance',
     text: '元素抗性',
-    tags: ['resistance', 'fire', 'cold', 'lightning'],
+    tags: ['resistance', 'fire', 'cold', 'lightning','defence'],
     position: 1,
     id: '005',
     valueTypes: [0],

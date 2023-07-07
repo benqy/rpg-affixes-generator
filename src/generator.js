@@ -35,6 +35,8 @@ export const generate = (tag) => {
       const affix  = {
         id,
         name: root.name,
+        //影响基础数值的通道
+        valuePath: `${root.name}.${VALUE_TYPES[type].name}`,
         desc: descTmpl,
         tags: root.tags,
         minValue,
