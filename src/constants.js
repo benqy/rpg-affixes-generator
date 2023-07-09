@@ -122,7 +122,7 @@ export const ROOTS = [
     tags: ['resistance', 'fire', 'cold', 'lightning','defence'],
     position: 1,
     id: '005',
-    valueTypes: [0],
+    valueTypes: [2],
     tierNames: [
       '坚固',
       '抵御',

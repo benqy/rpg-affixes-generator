@@ -26,6 +26,7 @@
         "maxValue": 10,
         "tier": 10,
         "tierName": "锐利",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -53,6 +54,7 @@
         "maxValue": 20,
         "tier": 9,
         "tierName": "猛烈",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -80,6 +82,7 @@
         "maxValue": 44,
         "tier": 8,
         "tierName": "强劲",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -107,6 +110,7 @@
         "maxValue": 82,
         "tier": 7,
         "tierName": "狂暴",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -134,6 +138,7 @@
         "maxValue": 131,
         "tier": 6,
         "tierName": "爆发",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -161,6 +166,7 @@
         "maxValue": 191,
         "tier": 5,
         "tierName": "激进",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -188,6 +194,7 @@
         "maxValue": 261,
         "tier": 4,
         "tierName": "猛力",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -233,6 +240,7 @@
         "maxValue": 3,
         "tier": 10,
         "tierName": "锐利",
+        "func": "more",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -260,6 +268,7 @@
         "maxValue": 6,
         "tier": 9,
         "tierName": "猛烈",
+        "func": "more",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -287,6 +296,7 @@
         "maxValue": 9,
         "tier": 8,
         "tierName": "强劲",
+        "func": "more",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -314,6 +324,7 @@
         "maxValue": 14,
         "tier": 7,
         "tierName": "狂暴",
+        "func": "more",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -341,6 +352,7 @@
         "maxValue": 18,
         "tier": 6,
         "tierName": "爆发",
+        "func": "more",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -368,6 +380,7 @@
         "maxValue": 23,
         "tier": 5,
         "tierName": "激进",
+        "func": "more",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -395,6 +408,7 @@
         "maxValue": 28,
         "tier": 4,
         "tierName": "猛力",
+        "func": "more",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -440,6 +454,7 @@
         "maxValue": 10,
         "tier": 10,
         "tierName": "锐利",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -467,6 +482,7 @@
         "maxValue": 20,
         "tier": 9,
         "tierName": "猛烈",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -494,6 +510,7 @@
         "maxValue": 44,
         "tier": 8,
         "tierName": "强劲",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -521,6 +538,7 @@
         "maxValue": 82,
         "tier": 7,
         "tierName": "狂暴",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -548,6 +566,7 @@
         "maxValue": 131,
         "tier": 6,
         "tierName": "爆发",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -575,6 +594,7 @@
         "maxValue": 191,
         "tier": 5,
         "tierName": "激进",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -602,6 +622,7 @@
         "maxValue": 261,
         "tier": 4,
         "tierName": "猛力",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -647,6 +668,7 @@
         "maxValue": 3,
         "tier": 10,
         "tierName": "迅捷",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -674,6 +696,7 @@
         "maxValue": 4,
         "tier": 9,
         "tierName": "飞速",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -701,6 +724,7 @@
         "maxValue": 6,
         "tier": 8,
         "tierName": "迅疾",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -728,6 +752,7 @@
         "maxValue": 9,
         "tier": 7,
         "tierName": "猎豹",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -755,6 +780,7 @@
         "maxValue": 11,
         "tier": 6,
         "tierName": "疾行",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -782,6 +808,7 @@
         "maxValue": 13,
         "tier": 5,
         "tierName": "风驰",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -809,6 +836,7 @@
         "maxValue": 16,
         "tier": 4,
         "tierName": "飞驰",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -854,6 +882,7 @@
         "maxValue": 10,
         "tier": 10,
         "tierName": "生机",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -881,6 +910,7 @@
         "maxValue": 20,
         "tier": 9,
         "tierName": "活力",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -908,6 +938,7 @@
         "maxValue": 44,
         "tier": 8,
         "tierName": "庇佑",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -935,6 +966,7 @@
         "maxValue": 82,
         "tier": 7,
         "tierName": "强韧",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -962,6 +994,7 @@
         "maxValue": 131,
         "tier": 6,
         "tierName": "蓬勃",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -989,6 +1022,7 @@
         "maxValue": 191,
         "tier": 5,
         "tierName": "恢复",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": false,
@@ -1016,6 +1050,7 @@
         "maxValue": 261,
         "tier": 4,
         "tierName": "充盈",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": false,
@@ -1061,6 +1096,7 @@
         "maxValue": 10,
         "tier": 10,
         "tierName": "坚固",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1088,6 +1124,7 @@
         "maxValue": 20,
         "tier": 9,
         "tierName": "厚重",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1115,6 +1152,7 @@
         "maxValue": 44,
         "tier": 8,
         "tierName": "坚硬",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1142,6 +1180,7 @@
         "maxValue": 82,
         "tier": 7,
         "tierName": "稳固",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1169,6 +1208,7 @@
         "maxValue": 131,
         "tier": 6,
         "tierName": "严密",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1196,6 +1236,7 @@
         "maxValue": 191,
         "tier": 5,
         "tierName": "牢固",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": false,
@@ -1223,6 +1264,7 @@
         "maxValue": 261,
         "tier": 4,
         "tierName": "结实",
+        "func": "increase",
         "position": 0,
         "tierLimit": {
           "weapon": false,
@@ -1268,6 +1310,7 @@
         "maxValue": 10,
         "tier": 10,
         "tierName": "坚固",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1295,6 +1338,7 @@
         "maxValue": 20,
         "tier": 9,
         "tierName": "厚重",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1322,6 +1366,7 @@
         "maxValue": 44,
         "tier": 8,
         "tierName": "坚硬",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1349,6 +1394,7 @@
         "maxValue": 82,
         "tier": 7,
         "tierName": "稳固",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1376,6 +1422,7 @@
         "maxValue": 131,
         "tier": 6,
         "tierName": "严密",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": true,
@@ -1403,6 +1450,7 @@
         "maxValue": 191,
         "tier": 5,
         "tierName": "牢固",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": false,
@@ -1430,6 +1478,7 @@
         "maxValue": 261,
         "tier": 4,
         "tierName": "结实",
+        "func": "add",
         "position": 0,
         "tierLimit": {
           "weapon": false,
@@ -1464,7 +1513,7 @@
     },
     "data": [
       {
-        "id": "0050010010",
+        "id": "0050030010",
         "name": "resistance",
         "valuePath": "resistance.increase",
         "desc": "元素抗性提高 n%",
@@ -1479,6 +1528,7 @@
         "maxValue": 3,
         "tier": 10,
         "tierName": "坚固",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1495,7 +1545,7 @@
         }
       },
       {
-        "id": "005001009",
+        "id": "005003009",
         "name": "resistance",
         "valuePath": "resistance.increase",
         "desc": "元素抗性提高 n%",
@@ -1510,6 +1560,7 @@
         "maxValue": 6,
         "tier": 9,
         "tierName": "抵御",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1526,7 +1577,7 @@
         }
       },
       {
-        "id": "005001008",
+        "id": "005003008",
         "name": "resistance",
         "valuePath": "resistance.increase",
         "desc": "元素抗性提高 n%",
@@ -1541,6 +1592,7 @@
         "maxValue": 9,
         "tier": 8,
         "tierName": "守护",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1557,7 +1609,7 @@
         }
       },
       {
-        "id": "005001007",
+        "id": "005003007",
         "name": "resistance",
         "valuePath": "resistance.increase",
         "desc": "元素抗性提高 n%",
@@ -1572,6 +1624,7 @@
         "maxValue": 14,
         "tier": 7,
         "tierName": "钢铁",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1588,7 +1641,7 @@
         }
       },
       {
-        "id": "005001006",
+        "id": "005003006",
         "name": "resistance",
         "valuePath": "resistance.increase",
         "desc": "元素抗性提高 n%",
@@ -1603,6 +1656,7 @@
         "maxValue": 18,
         "tier": 6,
         "tierName": "坚定",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1619,7 +1673,7 @@
         }
       },
       {
-        "id": "005001005",
+        "id": "005003005",
         "name": "resistance",
         "valuePath": "resistance.increase",
         "desc": "元素抗性提高 n%",
@@ -1634,6 +1688,7 @@
         "maxValue": 23,
         "tier": 5,
         "tierName": "防护",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -1650,7 +1705,7 @@
         }
       },
       {
-        "id": "005001004",
+        "id": "005003004",
         "name": "resistance",
         "valuePath": "resistance.increase",
         "desc": "元素抗性提高 n%",
@@ -1665,6 +1720,7 @@
         "maxValue": 28,
         "tier": 4,
         "tierName": "抗拒",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -1711,6 +1767,7 @@
         "maxValue": 9,
         "tier": 10,
         "tierName": "强悍",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1739,6 +1796,7 @@
         "maxValue": 12,
         "tier": 9,
         "tierName": "雄壮",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1767,6 +1825,7 @@
         "maxValue": 16,
         "tier": 8,
         "tierName": "威武",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1795,6 +1854,7 @@
         "maxValue": 22,
         "tier": 7,
         "tierName": "刚毅",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1823,6 +1883,7 @@
         "maxValue": 28,
         "tier": 6,
         "tierName": "雄狮",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1851,6 +1912,7 @@
         "maxValue": 35,
         "tier": 5,
         "tierName": "巨力",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -1879,6 +1941,7 @@
         "maxValue": 42,
         "tier": 4,
         "tierName": "雄健",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -1925,6 +1988,7 @@
         "maxValue": 9,
         "tier": 10,
         "tierName": "敏捷",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1953,6 +2017,7 @@
         "maxValue": 12,
         "tier": 9,
         "tierName": "灵活",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -1981,6 +2046,7 @@
         "maxValue": 16,
         "tier": 8,
         "tierName": "迅捷",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2009,6 +2075,7 @@
         "maxValue": 22,
         "tier": 7,
         "tierName": "敏锐",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2037,6 +2104,7 @@
         "maxValue": 28,
         "tier": 6,
         "tierName": "矫捷",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2065,6 +2133,7 @@
         "maxValue": 35,
         "tier": 5,
         "tierName": "疾步",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -2093,6 +2162,7 @@
         "maxValue": 42,
         "tier": 4,
         "tierName": "敏猫",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -2139,6 +2209,7 @@
         "maxValue": 9,
         "tier": 10,
         "tierName": "聪慧",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2167,6 +2238,7 @@
         "maxValue": 12,
         "tier": 9,
         "tierName": "智慧",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2195,6 +2267,7 @@
         "maxValue": 16,
         "tier": 8,
         "tierName": "睿智",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2223,6 +2296,7 @@
         "maxValue": 22,
         "tier": 7,
         "tierName": "聪颖",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2251,6 +2325,7 @@
         "maxValue": 28,
         "tier": 6,
         "tierName": "明晰",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2279,6 +2354,7 @@
         "maxValue": 35,
         "tier": 5,
         "tierName": "智者",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -2307,6 +2383,7 @@
         "maxValue": 42,
         "tier": 4,
         "tierName": "明哲",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -2352,6 +2429,7 @@
         "maxValue": 11,
         "tier": 10,
         "tierName": "愈合",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2379,6 +2457,7 @@
         "maxValue": 15,
         "tier": 9,
         "tierName": "恢复",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2406,6 +2485,7 @@
         "maxValue": 25,
         "tier": 8,
         "tierName": "治愈",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2433,6 +2513,7 @@
         "maxValue": 39,
         "tier": 7,
         "tierName": "回复",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2460,6 +2541,7 @@
         "maxValue": 54,
         "tier": 6,
         "tierName": "疗愈",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": true,
@@ -2487,6 +2569,7 @@
         "maxValue": 71,
         "tier": 5,
         "tierName": "滋养",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
@@ -2514,6 +2597,7 @@
         "maxValue": 90,
         "tier": 4,
         "tierName": "养生",
+        "func": "add",
         "position": 1,
         "tierLimit": {
           "weapon": false,
