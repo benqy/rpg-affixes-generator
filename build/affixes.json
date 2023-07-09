@@ -843,10 +843,10 @@
     },
     "data": [
       {
-        "id": "0030010010",
+        "id": "0030030010",
         "name": "hitPoint",
-        "valuePath": "hitPoint.increase",
-        "desc": "生命提高 n%",
+        "valuePath": "hitPoint.add",
+        "desc": "增加 n 生命",
         "tags": [
           "hitPoint"
         ],
@@ -870,10 +870,10 @@
         }
       },
       {
-        "id": "003001009",
+        "id": "003003009",
         "name": "hitPoint",
-        "valuePath": "hitPoint.increase",
-        "desc": "生命提高 n%",
+        "valuePath": "hitPoint.add",
+        "desc": "增加 n 生命",
         "tags": [
           "hitPoint"
         ],
@@ -897,10 +897,10 @@
         }
       },
       {
-        "id": "003001008",
+        "id": "003003008",
         "name": "hitPoint",
-        "valuePath": "hitPoint.increase",
-        "desc": "生命提高 n%",
+        "valuePath": "hitPoint.add",
+        "desc": "增加 n 生命",
         "tags": [
           "hitPoint"
         ],
@@ -924,10 +924,10 @@
         }
       },
       {
-        "id": "003001007",
+        "id": "003003007",
         "name": "hitPoint",
-        "valuePath": "hitPoint.increase",
-        "desc": "生命提高 n%",
+        "valuePath": "hitPoint.add",
+        "desc": "增加 n 生命",
         "tags": [
           "hitPoint"
         ],
@@ -951,10 +951,10 @@
         }
       },
       {
-        "id": "003001006",
+        "id": "003003006",
         "name": "hitPoint",
-        "valuePath": "hitPoint.increase",
-        "desc": "生命提高 n%",
+        "valuePath": "hitPoint.add",
+        "desc": "增加 n 生命",
         "tags": [
           "hitPoint"
         ],
@@ -978,10 +978,10 @@
         }
       },
       {
-        "id": "003001005",
+        "id": "003003005",
         "name": "hitPoint",
-        "valuePath": "hitPoint.increase",
-        "desc": "生命提高 n%",
+        "valuePath": "hitPoint.add",
+        "desc": "增加 n 生命",
         "tags": [
           "hitPoint"
         ],
@@ -1005,10 +1005,10 @@
         }
       },
       {
-        "id": "003001004",
+        "id": "003003004",
         "name": "hitPoint",
-        "valuePath": "hitPoint.increase",
-        "desc": "生命提高 n%",
+        "valuePath": "hitPoint.add",
+        "desc": "增加 n 生命",
         "tags": [
           "hitPoint"
         ],

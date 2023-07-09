@@ -1,5 +1,5 @@
-import { ROOTS } from './constants.js'
-import { generate } from './generator.js'
+import { ROOTS } from './src/constants.js'
+import { generate } from './src/generator.js'
 import * as fse from 'fs-extra'
 
 let affixes = []
