@@ -1,14 +1,15 @@
 import { ROOTS } from './src/constants.js'
-import { generate } from './src/generator.js'
+import { generate } from './src/modifier.js'
 import * as fse from 'fs-extra'
 
-let affixes = []
-for (let i = 0; i < ROOTS.length; i++) {
-  affixes = [...affixes, ...generate(ROOTS[i].name) ]
-}
-fse.outputFile('./build/affixes.json', JSON.stringify(affixes), (err) => {
-  console.log(err)
-})
+
+fse.outputFile(
+  './build/affixes.json',
+  JSON.stringify(generate()),
+  (err) => {
+    console.log(err)
+  }
+)
 
 // printListByTag('regenerate')
 

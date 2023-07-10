@@ -8,9 +8,9 @@ export const attackLimit = {
   glove: 6,
   trousers: 11,
   boot: 11,
-  amulet: 4,
+  amulet: 5,
   belt: 6,
-  ring: 5,
+  ring: 6,
   shield: 5,
 }
 export const defenceLimit = {
