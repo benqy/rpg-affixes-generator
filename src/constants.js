@@ -8,10 +8,10 @@ export const attackLimit = {
   glove: 6,
   trousers: 11,
   boot: 11,
-  amulet: 5,
+  amulet: 6,
   belt: 6,
   ring: 6,
-  shield: 5,
+  shield: 6,
 }
 export const defenceLimit = {
   weapon: 6,
@@ -75,9 +75,9 @@ export const ROOTS = [
     tierLimit: attackLimit,
   },
   {
-    name: 'hitPoint',
+    name: 'health',
     text: '生命',
-    tags: ['hitPoint'],
+    tags: ['health'],
     position: 0,
     id: '003',
     valueTypes: [2],
